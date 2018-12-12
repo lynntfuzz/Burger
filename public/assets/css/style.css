@@ -1,7 +1,29 @@
+.top-row {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 40px;
+  background: aqua;
+  text-align: center;
+}
+
+.middle-row {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.bottom-row {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 10px;
+  background: aqua;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: aqua;
 }
 
 .label {
