@@ -1,41 +1,44 @@
 .top-row {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 40px;
-  background: aqua;
+  margin-bottom: 10px;
+  padding: 20px;
+  background: white;
   text-align: center;
 }
 
 .middle-row {
   text-align: center;
-  padding: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .bottom-row {
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   margin-bottom: 10px;
-  background: aqua;
+  background: white;
 }
 
 li {
   padding: 5px;
   margin: 5px;
-  background: aqua;
 }
 
+h2 {
+  background: #faebd7;
+}
 .label {
   font-weight: bold;
 }
 
-.create-update-form {
+.create-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
 }
 
 .form-group {
-  margin-bottom: 5px;
+  text-align: left;
+  width: 250px;
+  margin: auto;
+  padding: 10px;
 }
